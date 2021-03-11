@@ -1,0 +1,18 @@
+"menu + burger": {
+    "prefix": "menu",
+    "body": [
+    "<div class=\"header__menu menu\">",
+	  "    <div class=\"menu__burger burger-menu\">",
+		"        <span></span>",
+		"        <span></span>",
+		"        <span></span>",
+	  "    </div>",
+	  "    <nav class=\"menu__body\">",
+	  "        <ul class=\"menu__list\">",
+	  "      	  <li><a href=\"\" class=\"menu__link\"></a></li>",
+	  "        </ul>",
+    "    </nav>",
+    "</div>",
+    ],
+    "description": "create html layout of menu navigation ;"
+  }
