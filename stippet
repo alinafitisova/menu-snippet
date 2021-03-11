@@ -65,3 +65,20 @@
     ],
     "description": "create css of burger-menu  ;"
   },
+  "css btn": {
+    "prefix": "cssBtn",
+    "body": [
+    ".btn {",
+    "    display: inline-flex;",
+    "    padding: 0px 0px;",
+    "    @media (max-width: 992px) {",
+    "        &:hover {",
+    "        }",
+    "    }",
+    "    &._fw {",
+    "        width: 100%;",
+    "    }",
+    "}",
+    ],
+    "description": "create css for button  ;"
+  },
