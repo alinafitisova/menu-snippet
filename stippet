@@ -82,3 +82,8 @@
     ],
     "description": "create css for button  ;"
   },
+  "an adaptive line height ": {
+    "prefix": "lh",
+    "body": ["line-height: $0 / * 100%;"],
+    "description": "create adaptive line height depending of font size;"
+  }
